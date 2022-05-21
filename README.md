@@ -31,7 +31,7 @@
 
 * 김이현([@IhyeonKIM](https://github.com/IhyeonKIM))
   * [Default Forecast](https://2hyeon.shinyapps.io/bankruptcy)
-  * [Car Insurance](https://2hyeon.shinyapps.io/Car_Insurance)
+  * [Life_Insurance]( https://2hyeon.shinyapps.io/insuarance/
   * [Heart Disease](https://2hyeon.shinyapps.io/heart_disease)
 
 
